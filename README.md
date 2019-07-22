@@ -13,7 +13,7 @@ Instalation instructions:
     <li>In Addons, install an addon from zip.  When it asks for the location, select "DenimNani Repo", and install <a href="repository.denimnani-0.0.1.zip">repository.denimnani-0.0.1.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "DenimNani Repo".</li>
-    <li>Then install any addon you whant, like "Services" "Subloader".</li>
+    <li>Then install any addon you whant, like "Services" "SubLoader".</li>
   </ul>
 </p>
 
